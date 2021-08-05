@@ -15,7 +15,7 @@ The following assumes that you have properly configured a CUPS' server web inter
     printing = CUPS
     printcap = CUPS
 ````
-3. Change the following from `no` into `yes` in the `[printers]` section to show the raw queue and allow everyone to print or leave as is to hide the queue name. You have to manually input `\\servername\Printer_Make_Raw_Queue` in Windows Explorer to connect
+3. Change the following from `no` into `yes` in the `[printers]` section to show the raw queue and allow everyone to print. You have to manually input `\\servername\Printer_Make_Raw_Queue` in Windows Explorer to connect if you set leave it as is
 ```
     browseable = no
     guest ok = no 
