@@ -1,5 +1,5 @@
 # Raw Printing for Samba using vendor supplied drivers
-An SBC as a CUPS print server can remove the hassle of wires in your Windows desktop/laptop and enables your client computer to send print jobs via through WiFi just like a printer with a built-in WiFi. Gutenprint PPD's is a welcome feature for Linux and Mac OS users but unfortunately it lacks access to maintenance tasks such as head cleaning and other tasks, so we use the vendor supplied driver in Windows.
+An SBC as a CUPS print server can remove the hassle of wires in your Windows desktop/laptop and enables your client computer to send print jobs via WiFi just like a printer with a built-in WiFi.
 
 The following assumes that you have properly configured a CUPS' server web interface access.
 
